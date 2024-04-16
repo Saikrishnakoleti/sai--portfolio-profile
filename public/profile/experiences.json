@@ -1,0 +1,31 @@
+{
+    "experiences": [
+        {
+            "title": "UI Angular developer",
+            "subtitle": "Cognizant Technology Solutions",
+            "workType": "Full-time",
+            "workDescription": [
+                "Having good xperience with diversified exposure in Software Process Engineering, designing & building a Web Application using HTML, CSS, JavaScript and Angular frameworks.",
+                "Hands on experience in Angular, HTML, CSS, JavaScript, Typescript.",
+                "Having a good knowledge in integrating and configuring the restful API’s.",
+                "Having good knowledge in building the UI using Angular framework."
+            ],
+            "dateText": "09/2021 – Present"
+        },
+        {
+            "title": "UI Angular developer",
+            "subtitle": "Tectoro Consulting Private Limited",
+            "workType": "Full-time",
+            "workDescription": [
+                "Having good xperience with diversified exposure in Software Process Engineering, designing & building a Web Application using HTML, CSS, JavaScript and Angular frameworks.",
+                "Hands on experience in Angular, HTML, CSS, JavaScript, Typescript.",
+                "Having a good knowledge in integrating and configuring the restful API’s.",
+                "Having good knowledge in building the UI using Angular framework.",
+                "Result oriented, self-driven, highly motivated, smart and hungry to learn new technologies, methodologies, strategies and processes.",
+                "Good hands-on knowledge of Source Code Management (Version Control System) tools like Git.",
+                "Having knowledge on Unit Testing using Jasmin and karma."
+            ],
+            "dateText": "01/20XX – 05/20XX"
+        }
+    ]
+}

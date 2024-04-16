@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Jun 2013 - Jun 2016",
+            "cardTitle": "B.Tech, Electical and Electronics Engineering",
+            "cardSubtitle":"JNTU University",
+            "cardDetailedText": "Percentage - 65%",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Diploma Electical and Electronics Engineering",
+            "cardTitle": "Diploma Electical and Electronics Engineering",
+            "cardSubtitle":"Vikas Poly Technic College",
+            "cardDetailedText": "Marks - 75%"
+        }
+    ]
+}

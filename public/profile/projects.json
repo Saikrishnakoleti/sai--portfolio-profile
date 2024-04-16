@@ -1,0 +1,50 @@
+{
+    "projects": [
+        {
+            "image": "images/projects/nw.png",
+            "title": "Artemis Insurance",
+            "bodyText": "- Contributing in agile environment as a developer to design and develop Features using Angular for “Nationwide Insurance” application used by ISP’S.\n -  Utilized HTML, CSS, JavaScript and Angular to create user-friendly experiences. \n - Interacting with on-site Client’s business people as and when applicable before and after feature development completion.\n - Worked on reusable Libraries to consume these components in different projects. \n - Worked on creating new libraries using Angular 12 and client UI Library. \n - Worked on API integration.",
+            "tags": [
+                "HTML5", 
+                "CSS3",
+                "JavaScript", 
+                "Typescript", 
+                "Angular 16",
+                "Rxjs",
+                "GIT",
+                "JIRA"
+            ]
+        },
+        {
+            "image": "images/projects/nw.png",
+            "title": "ITC PET Insurance",
+            "bodyText": "- Utilized HTML, CSS, JavaScript, and Angular 14 to create user-friendly experiences. \n - Implement features and user interfaces based on project requirements.\n - Implement forms with two-way data binding for user input and interaction. Validate user input and manage form submissions effectively. \n - Worked on array methods to filter and manipulate the arrays for health care products.",
+            "tags": [
+                "HTML5", 
+                "CSS3",
+                "JavaScript", 
+                "Typescript", 
+                "Angular 14",
+                "Rxjs",
+                "GIT",
+                "JIRA",
+                "APIGEE"
+            ]
+        },
+        {
+            "image": "images/projects/scb1.png",
+            "title": "Standard Charted Bank (Hong Kong)",
+            "bodyText": "- Created re-usable components, services and directives. \n - Requirement understanding, discussion with Managers. \n - Implemented the UI using HTML, CSS, Bootstrap and Angular Material. \n - Render data on UI, which comes into JSON format. \n - Form validations and showing messages on UI. \n - Created the Custom Pipesand developed the EMI Calculation Functionality for Business Installment and Guarantor Installment loans. \n - Worked on save and get Api functionality.",
+            "tags": [
+                "HTML5", 
+                "CSS3",
+                "JavaScript", 
+                "Typescript", 
+                "Angular 7",
+                "Rxjs",
+                "GIT",
+                "Nodejs"
+            ]
+        }
+    ]
+}
